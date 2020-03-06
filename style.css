@@ -1,0 +1,102 @@
+
+
+* {
+	box-sizing: border-box;
+}
+body {
+
+	background-color: #E9E6DF;
+	max-width: 650px;
+	margin: 0 auto;	
+	
+}
+
+main h1{ 
+
+	letter-spacing: -0.0625rem;
+	text-align: center;
+	font-family: 'Oswald' ,sans-serif;
+	font-size: 38px;
+	line-height: 1;
+	font-weight: 800;
+}
+	
+main h2{
+	letter-spacing: -0.0625rem;
+	text-align: center;
+	font-family: 'Oswald' ,sans-serif;
+	font-size: 30;
+	line-height: 2;
+}
+
+
+hr { 
+
+	width:650px;
+	margin-top: 20px;
+}
+
+
+img {
+	max-width: 100vw;
+	margin: 0 auto;
+	display: block;
+}
+
+
+h3{
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 1.5rem;
+	font-family: 'IBM Plex Serif', serif;
+	font-size: 19;
+	font-weight: 700;
+	color: #262d7e;
+
+}
+
+
+main .content p  {
+
+	text-align: left;
+	margin: 0 auto;
+	width: 650px;
+	font-family: 'Times New Roman';
+	font-size: 16;
+	line-height: 1.3;
+
+}
+
+
+.special_offer h2{
+	
+	text-align: center;	
+	letter-spacing: -0.0625rem;
+	margin-bottom:20px;
+	min-width: 620px;
+	font-family: 'Libre Basskerville', serif;
+	font-size: 14.5;
+	font-weight: 700;
+	color:#bc0000;
+	line-height: 1.1;
+
+}
+
+.special_offer p{
+	
+	text-align: justify;
+	margin: 0 auto;
+	width: 620px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 15;
+	line-height: 1.5;
+}
+
+
+.special_offer {
+
+	padding: 1rem;
+	margin-top:20px;
+	margin-bottom: 80px;
+
+}
